@@ -1,0 +1,47 @@
+D:\Form\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe.config
+D:\Form\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe
+D:\Form\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.pdb
+D:\Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csprojResolveAssemblyReference.cache
+D:\Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Form1.resources
+D:\Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Properties.Resources.resources
+D:\Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.GenerateResource.Cache
+D:\Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.exe
+D:\Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.pdb
+D:\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe.config
+D:\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.exe
+D:\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.pdb
+D:\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe
+D:\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.pdb
+D:\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csprojResolveAssemblyReference.cache
+D:\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Form1.resources
+D:\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Properties.Resources.resources
+D:\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.GenerateResource.Cache
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe.config
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.exe
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.pdb
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.pdb
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csprojResolveAssemblyReference.cache
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Form1.resources
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Properties.Resources.resources
+D:\Huu Phuoc IT Group 1\B.Bai tap Visual C# &Win Form\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.GenerateResource.Cache
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe.config
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.pdb
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csprojAssemblyReference.cache
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Form1.resources
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Properties.Resources.resources
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.GenerateResource.cache
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.CoreCompileInputs.cache
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.exe
+C:\Users\long.nguyen21\Downloads\GiaiPTB2\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.pdb
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe.config
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.exe
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\bin\Debug\GiaiPTB2.pdb
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csprojAssemblyReference.cache
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Form1.resources
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.Properties.Resources.resources
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.GenerateResource.cache
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.csproj.CoreCompileInputs.cache
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.exe
+F:\Bài tập .NET\GiaiPTB2\GiaiPTB2\obj\Debug\GiaiPTB2.pdb
